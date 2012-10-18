@@ -11,7 +11,7 @@
     </author>
 	
 	<preference name="orientation" value="portrait" />
-	<preference name="phonegap-version" value="1.7.0" />
+	<preference name="phonegap-version" value="2.0.0" />
 	<preference name="target-device" value="handset" />
 	<preference name="fullscreen" value="true" />
 	<preference name="webviewbounce" value="false" />
