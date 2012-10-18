@@ -219,6 +219,16 @@ div.contenido {
 
 .ui-btn1 {height:100%;}
 
+
+.ui-listview2 {height:20%;}
+
+.ui-btn2 {
+	height:50%;
+	line-height: 2.3em;
+}
+
+
+
 .ui-listview3 {height:30%;}
 
 .ui-btn3 {
@@ -240,6 +250,17 @@ div.contenido {
 	line-height: 2em;
 }
 
+
+.ui-listview5-2 {height:55%;}
+
+.ui-btn5-2 {
+	height:17.5%;
+	line-height: 2em;
+}
+
+
+
+
 .ui-listview6 {height:60%;}
 
 .ui-btn6 {
@@ -255,7 +276,7 @@ div.contenido {
     margin: -1.5em -1px -1.5em 0;
     padding: 2px;
     position: relative;
-    text-align: left;
+    text-align: center;
 	box-shadow: none !important; 
 	-moz-box-shadow:none !important;
 	-webkit-box-shadow:none !important;
@@ -275,6 +296,16 @@ div.contenido {
 
 
 /* ====== BOTONES HEADER ====== */
+
+.cabecera {
+	top:0;
+	
+	
+	}
+
+
+
+
 
 .ui-btn-header-cercador {
 	width:100%;
@@ -439,3 +470,5 @@ img.imagen60 {
 .royalSlider.minimal {} /* Clase vacia */
 
 /* ====== FIN GALERIA ====== */
+
+#checkbox-1{}
