@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		= "com.phonegap.ripoll.audioguia"
+	id		= "com.phonegap.getting.started"
 	version 	= "1.0.0">
 
 	<name>Monestir Ripoll</name>
 	<description>Audioguia Monestir de Ripoll</description>
 	<author>Exit</author>
-	<name>MSMR</name>
-	<description>Audioguia Monestir de Ripoll</description>
-	<author href="www.exitdesign.com" email="developers.exitdesign@gmail.com">Exit de Disseny S.L.</author>
 	
 	<preference name="orientation" value="portrait" />
 	<preference name="phonegap-version" value="1.7.0" />
@@ -21,6 +18,14 @@
 	
 	<icon src="icon.png" gap:role="default" />
 	<author href="www.exitdesign.com" email="developers.exitdesign@gmail.com">
+        Exit de Disseny S.L.
+    </author>
+	
+	<gap:splash src="splash.png" />
+	
+	<feature name="http://api.phonegap.com/1.0/notification"/>
+</widget>
+velopers.exitdesign@gmail.com">
         Exit de Disseny S.L.
     </author>
 	
