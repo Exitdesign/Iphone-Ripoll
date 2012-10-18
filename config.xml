@@ -4,22 +4,25 @@
 	id		= "com.phonegap.ripoll.audioguia"
 	version 	= "1.0.0">
 
+	<name>Monestir Ripoll</name>
+	<description>Audioguia Monestir de Ripoll</description>
+	<author>Exit</author>
 	<name>MSMR</name>
 	<description>Audioguia Monestir de Ripoll</description>
 	<author href="www.exitdesign.com" email="developers.exitdesign@gmail.com">Exit de Disseny S.L.</author>
 	
 	<preference name="orientation" value="portrait" />
-	<preference name="phonegap-version" value="2.1.0" />
+	<preference name="phonegap-version" value="1.7.0" />
 	<preference name="target-device" value="handset" />
 	<preference name="fullscreen" value="true" />
-	<preference name="stay-in-webview" value="false"/>
 	<preference name="webviewbounce" value="false" />
 	<preference name="prerendered-icon" value="true" />
 	<preference name="ios-statusbarstyle" value="black-opaque" />
 	
 	<icon src="icon.png" gap:role="default" />
-	<icon src="icono_57x57.png" width="57" height="57" />
-	<icon src="icon.png" width="114" height="114" />
+	<author href="www.exitdesign.com" email="developers.exitdesign@gmail.com">
+        Exit de Disseny S.L.
+    </author>
 	
 	<gap:splash src="splash.png" />
 	
