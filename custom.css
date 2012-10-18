@@ -316,7 +316,7 @@ div.contenido {
 }
 
 .ui-btn-header1 {  /* Boton Back */
-	width:11.7%;
+	width:11.5%;
 	border-bottom-left-radius: 0;
     border-top-left-radius: 0;
 	padding-bottom:2%;
@@ -324,7 +324,7 @@ div.contenido {
 }
 	
 .ui-btn-header2 {   /* Boton cercador */
-	width:11.7%;
+	width:11.4%;
 	padding-bottom:2%;
 	padding-top:2%;
 }
