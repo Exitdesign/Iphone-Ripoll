@@ -6,7 +6,7 @@ body {
 	font-family:Helvetica,Arial,sans;
 	font-size:13px;
 	-webkit-touch-callout: none !important;
-	overflow-x:hidden;
+	
 }
 
 a {-webkit-touch-callout: none !important;  /* Desabilitar Taphold */}
@@ -317,7 +317,7 @@ div.contenido {
 }
 
 .ui-btn-header1 {  /* Boton Back */
-	width:11.5%;
+	width:11.7%;
 	border-bottom-left-radius: 0;
     border-top-left-radius: 0;
 	padding-bottom:2%;
@@ -325,7 +325,7 @@ div.contenido {
 }
 	
 .ui-btn-header2 {   /* Boton cercador */
-	width:11.4%;
+	width:11.7%;
 	padding-bottom:2%;
 	padding-top:2%;
 }
@@ -385,20 +385,20 @@ margin-bottom:2%;
 }
 	
 img.imagen100 {
-	width:103%;
+	width:100%;
 }
 
 img.imagen50 {
-	width:53%;
+	width:50%;
 	height:auto;
 }
 
 img.imagen60 {
-	width:63%;
+	width:60%;
 }
 
 .width80 {
-	width:83%;
+	width:80%;
 }
 
 /*  ====== FIN IMAGENES ======   */
