@@ -6,6 +6,7 @@ body {
 	font-family:Helvetica,Arial,sans;
 	font-size:13px;
 	-webkit-touch-callout: none !important;
+	overflow-x:hidden;
 }
 
 a {-webkit-touch-callout: none !important;  /* Desabilitar Taphold */}
